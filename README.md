@@ -6,7 +6,7 @@ A startup called Sparkify wants to create a Redshift data warehouse and transfor
 
 A star schema optimized for queries on song play analysis was developed using the song and event datasets. As per below model, the schema includes fact table(songsplay) and four dimension tables (users, artists, songs, time).
 
-![Sparkify star schema database design](./songplay_schema.png)
+![Sparkify star schema database design](songplay_schema.png)
 
 ### Schema and Table Design
 
